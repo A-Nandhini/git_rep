@@ -1,0 +1,5 @@
+1.Write a use case in SOA and fit a XML data to be used in the scenario. 
+
+2. For the XML data write the corresponding DTD used for vallidation
+
+3. Make at least 5 improvements to the XML validation done with DTD using schema. 
